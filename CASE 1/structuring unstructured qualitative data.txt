@@ -1,0 +1,9 @@
+Structuring Unstructured Qualitative data using Python and LLM
+The life of a qualitative researcher is inherently complex and demanding. Tasked with moderating focus group interviews, drafting proposals, and addressing client queries, Researchers navigate a tight schedule. The introduction of new tools, regardless of their sophistication, often meets resistance due to the time investment required to learn them. Furthermore, the intrinsic value qualitative researchers place on direct, "in vivo" interactions with conversational data presents an additional layer of challenge in adopting technological solutions.
+
+Qualitative researchers prioritize a hands-on approach to data, favoring the nuances of reading, listening to, and watching unfiltered respondent conversations. This commitment to authenticity ensures depth and richness in data interpretation but also imposes significant time constraints and operational inefficiencies, especially when managing vast amounts of unstructured data.
+
+The advent of Large Language Models (LLM) and General AI technologies offers a transformative solution to these enduring challenges. By leveraging these advanced models, qualitative researchers can enhance their data analysis processes in several key areas:
+1. Data Sorting of all interviews by analysis questions and cohort details
+2. Auto Summaries and AI generated themes, code and sentiment with 100% accuracy
+3. Themes and Code side by side conversations in the form of pre-loaded coded word and excel file

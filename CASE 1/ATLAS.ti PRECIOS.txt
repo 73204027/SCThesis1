@@ -1,0 +1,11 @@
+ATLAS.ti
+link: https://shop.atlasti.com/74/catalog/category.94908/language.en/currency.PEN/?id=0kmSeFvdOg
+
+Pricing:
+- Student Version:
+	S/.50 - al mes (WEB only!)
+	S/.380 - 1 año (Windows)
+	S/.190 - 6 meses (Windows)
+
+(requiere probar el estado del estudiante después de la compra, con un limite de 5 días me parece)
+(hay prueba gratuita)

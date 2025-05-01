@@ -1,0 +1,29 @@
+yt-chanel: UnPicke Customer Experience Platform
+
+AI powered Research Assistants: Learnings so far
+
+QDA or qualitative data analysis, has undergone five major developments.
+
+1. Faster and Lower transcription costs: Voice to text is becoming semi-automated, though it is still inaccurate for many Indian languages.
+
+2. 360 view of Customer using diverse data: WhatsApp and Insta photo analysis are complementing traditional feedback methods such as Focus Group Interviews, social reviews and surveys as well as transaction data on what has been purchased. For example, photos articulate occasions, interviews help you understand why and transaction data can validate the decisions. Though we have not tried it yet, there is still opportunity to analyze motion data for UI/UX.
+
+3. Auto Summarisation of theme, code and tonality generation: For a long time, we had trouble consistently summarizing qualitative data but we are no longer faced with this problem. We are able to code line-by-line verbatim or photo in terms of themes and tonality. There are several options to summarize - Foundational models such as CHatGPT, BERT via Hugging Face or SpacY using Python.
+
+4. Context driven Insights: Themes and codes have more impact when seen from the context of the customer. Context could be prompted by the moderator, the setting in which the photo was taken, the respondent's user profile, demographics or promoter/detractor status.
+
+5. Quicker navigation using Tableau-based user interface: Tableau has two aspects that make it suitable for QDA, while being predominantly a tool for numerical data presentation. Worksheets and filters that let you slice data by respondent and context can be used to build numerous views of the customer. For example we take purchase intention or consideration from quant studies and link it to why - themes, code and tonality from qual studies.
+
+How has this changed the way we work
+1. Personal Immersion by still retaining the flexibility to study photos or read verbatims.
+2. Next Day Report writing or top line findings on a rolling basis.
+3. Descriptive story creation to Prescriptive recommendations
+4. Project Management to Client Management
+5. Hallucination free credible findings backed by relevant photos and verbatims.
+
+What Next
+We have been getting requests for a ChatGPT interface but we are struggling from guardrails and cost to service perspective. We will keep posting as we make progress.
+
+
+asesoría personalizada:
+https://calendly.com/milind-kelkar/cxta-demo?month=2025-05

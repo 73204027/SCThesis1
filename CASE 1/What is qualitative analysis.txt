@@ -1,0 +1,19 @@
+Qualitative Analysis:
+Aka Analyzing Qualitative Data. 
+Also, interpret qualitative data.
+This process involve structuring data (human natural language is unstructured: interviews, field notes, etc.)
+Segmenting the data into smaller parts, continuously comparing them and asigning them labels that accurately synthesize observed events.
+
+We do this because we get inmense volume of textual data that gets overwhelming to the human brain capacity. So, we define abstraction layers, (Chunking) to be able to analyze that amount of data.
+
+
+The objective is to mathematize textual data. To:
+- Identify patterns
+- Identify logic relationship
+- Cause-Effect
+- Develop Categories
+
+LLM ventajas:
+- tiempo: velocidad de procesamiento superhumano
+- 
+

@@ -1,0 +1,25 @@
+Estructura Principal de la Tesis:
+- Falta:
+	- Identificar fuentes académicas específicas que sustenten la estructura de la tesis
+	- Comparar la plantilla de gpt contra tesis de maestría de la pucp (análogas a la tesis de papá) [Valdivia]
+	- 
+	-
+	-
+	-
+	-
+	-
+	-
+	
+
+
+
+Codificación: 
+- Status: conozco el concepto, me falta sistematizar video sobre 3 pasos de codificación
+- Overview:
+
+Análisis Temático:
+- Status: falta sistematizar video
+- Overview: Los Temas son los Capítulos de un libro, dentro de cada uno está el contenido. Los códigos son Etiquetas para nuestra data cualitativa desestructurada.
+- links: 
+
+Análisis de Contenido:
